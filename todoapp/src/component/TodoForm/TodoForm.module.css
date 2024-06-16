@@ -1,0 +1,30 @@
+.container {
+    width: 70%;
+}
+
+form{
+    height: 2.5rem;
+}
+
+.input{
+    width: 50%;
+    height: 90%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: rgba(22, 22, 48, 0.412);
+    color: white;
+    font-size: 16px;
+    outline: none;  
+}
+
+button {
+    height: 100%;
+    width: 5rem;
+    height: 100%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: green;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+}
